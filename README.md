@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://mery-code-devloper20lmb.mystrikingly.com/](https://mery-code-devloper20lmb.mystrikingly.com/)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
