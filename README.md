@@ -9,3 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,postman,vscode,git,github)](https://skillicons.dev)
 
 
+
+![Meriyem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merirebz&show_icons=true&theme=tokyonight)
+
+
+
