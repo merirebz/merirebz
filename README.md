@@ -14,7 +14,7 @@
 📩 Contact Me
 
 
- [Your LinkedIn](https://linkedin.com/in/meryem-bouiz)
- [@yourusername](https://merirebz.github.io/portfolio_bouiz_mery/)
+ [LinkedIn](https://linkedin.com/in/meryem-bouiz)
+ [My Portfolio](https://merirebz.github.io/portfolio_bouiz_mery/)
 
 
