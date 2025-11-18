@@ -9,10 +9,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,postman,vscode,git,github)](https://skillicons.dev)
 
 
-
-
-
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merirebz&layout=compact&theme=tokyonight&include_forks=true)
+
+📩 Contact Me
+
+
+ [Your LinkedIn](https://linkedin.com/in/meryem-bouiz)
+ [@yourusername](https://merirebz.github.io/portfolio_bouiz_mery/)
+
 
