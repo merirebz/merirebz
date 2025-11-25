@@ -11,10 +11,12 @@
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merirebz&layout=compact&theme=tokyonight&include_forks=true)-->
 
-📩 Contact Me
+Find Me : 
 
 
  [LinkedIn](https://linkedin.com/in/meriyem-bouiz)
+
+ 
  [My Portfolio](https://merirebz.github.io/portfolio_bouiz_mery/)
 
 
