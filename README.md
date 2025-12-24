@@ -1,5 +1,5 @@
 
-<h1 align="center">< Hi I'm Mery 🕸 🐱‍👤 /></h1>
+<h1 align="center">< Hi I'm Mery 🕸/></h1>
 <p align="center">
   <img src="https://64.media.tumblr.com/80c31342301504b079e7e2079a06b4be/32f9253f7440d48f-01/s2048x3072/23af791d06965551f8ba4958a2e34a6a7aa10ea5.gif"  alt="gif"/>
 </p>
