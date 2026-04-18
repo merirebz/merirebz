@@ -11,10 +11,10 @@
 
 
 
-<!-- Find Me 📩 : 
+Find Me 📩 : 
 
  [LinkedIn](https://linkedin.com/in/meriyem-bouiz) 
-
+<!-- 
  
  [My Portfolio](https://merirebz.github.io/portfolio_bouiz_mery/)
 
